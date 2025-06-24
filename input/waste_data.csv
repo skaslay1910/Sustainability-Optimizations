@@ -1,0 +1,17 @@
+store_id,date,product_id,waste_quantity,reason,disposal_method,waste_cost
+ST001,14-10-2023,bread,5,expired,compost,21.25
+ST001,14-10-2023,potatoes,3,damaged,landfill,20.25
+ST001,13-10-2023,butter,2,expired,compost,7.6
+ST001,12-10-2023,carrot,8,quality_issue,donation,23.6
+ST002,14-10-2023,onions,4,expired,compost,20.8
+ST002,13-10-2023,tomatoes,2,damaged,landfill,17
+ST002,12-10-2023,cucumber,1,expired,compost,12.3
+ST003,14-10-2023,bread,6,expired,compost,25.5
+ST003,13-10-2023,butter,3,damaged,landfill,11.4
+ST003,12-10-2023,potatoes,2,quality_issue,donation,13.5
+ST004,12-10-2023,tomatoes,8,damaged,compost,23.6
+ST004,14-10-2023,bread,4,expired,landfill,20.8
+ST004,13-10-2023,tomatoes,2,expired,compost,17
+ST005,12-10-2023,tomatoes,1,damaged,compost,12.3
+ST005,14-10-2023,carrot,6,quality_issue,landfill,25.5
+ST005,13-10-2023,tomatoes,3,expired,donation,11.4

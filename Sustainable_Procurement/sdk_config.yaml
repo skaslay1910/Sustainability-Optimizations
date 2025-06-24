@@ -1,0 +1,4 @@
+provider: vertex_ai
+model: gemini-2.0-flash
+project_id: hacker2025-team-49-dev
+location: us-central1

@@ -1,0 +1,11 @@
+supplier_id,name,category,location,certification_ids
+S042,EcoFabrics Inc.,textiles,Vietnam,"[""C001"", ""C003""]"
+S043,GreenMaterials Co.,packaging,Thailand,"[""C002"", ""C005""]"
+S044,SustainTech Ltd.,electronics,Malaysia,"[""C004"", ""C007""]"
+S045,NatureFoods,food_products,Indonesia,"[""C001"", ""C006""]"
+S046,EcoBuilders,construction,Singapore,"[""C008"", ""C009""]"
+S047,CleanChemicals,chemicals,Germany,"[""C003"", ""C010""]"
+S048,RecycleTech,plastics,China,"[""C005""]"
+S049,OrganicFarms,agriculture,India,"[""C001"", ""C006""]"
+S050,GreenLogistics,transportation,Netherlands,"[""C011"", ""C012""]"
+S051,SustainPackage,packaging,USA,"[""C002"", ""C013""]"

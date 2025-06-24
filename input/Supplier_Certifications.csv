@@ -1,0 +1,124 @@
+﻿supplier_id,certification_ids,certification_name,certification_level,valid_until
+S001,C001,GOTS Organic,gold,30-06-2024
+S001,C003,Fair Trade,gold,15-03-2025
+S002,C002,FSC Certified,silver,22-08-2024
+S002,C005,Recycled Content,bronze,05-11-2024
+S003,C004,Energy Star,platinum,10-12-2023
+S003,C007,RoHS Compliant,standard,18-05-2024
+S004,C001,GOTS Organic,gold,30-01-2025
+S004,C006,Organic Standard,gold,12-09-2024
+S005,C008,LEED Certified,silver,28-02-2025
+S005,C009,Green Building,gold,15-07-2024
+S006,C003,Fair Trade,gold,15-03-2025
+S006,C010,ISO 14001,standard,22-08-2024
+S007,C005,Recycled Content,bronze,05-11-2024
+S007,C006,Organic Standard,gold,10-12-2023
+S008,C001,GOTS Organic,gold,18-05-2024
+S008,C006,Organic Standard,gold,30-01-2025
+S009,C001,GOTS Organic,gold,12-09-2024
+S009,C002,FSC Certified,silver,28-02-2025
+S010,C003,FSC Certified,silver,15-07-2024
+S010,C006,Organic Standard,gold,30-06-2024
+S011,C001,GOTS Organic,gold,30-06-2024
+S011,C003,Fair Trade,gold,15-03-2025
+S012,C002,FSC Certified,silver,22-08-2024
+S012,C005,Recycled Content,bronze,05-11-2024
+S013,C004,Energy Star,platinum,10-12-2023
+S013,C007,RoHS Compliant,standard,18-05-2024
+S014,C001,GOTS Organic,gold,30-01-2025
+S014,C006,Organic Standard,gold,12-09-2024
+S015,C008,LEED Certified,silver,28-02-2025
+S015,C009,Green Building,gold,15-07-2024
+S016,C003,Fair Trade,gold,15-03-2025
+S016,C010,ISO 14001,standard,22-08-2024
+S017,C005,Recycled Content,bronze,05-11-2024
+S017,C006,Organic Standard,gold,10-12-2023
+S018,C001,GOTS Organic,gold,18-05-2024
+S018,C006,Organic Standard,gold,30-01-2025
+S019,C001,GOTS Organic,gold,12-09-2024
+S019,C002,FSC Certified,silver,28-02-2025
+S020,C003,FSC Certified,silver,15-07-2024
+S020,C006,Organic Standard,gold,30-06-2024
+S021,C001,GOTS Organic,gold,30-06-2024
+S021,C003,Fair Trade,gold,15-03-2025
+S022,C002,FSC Certified,silver,22-08-2024
+S022,C005,Recycled Content,bronze,05-11-2024
+S023,C004,Energy Star,platinum,10-12-2023
+S023,C007,RoHS Compliant,standard,18-05-2024
+S024,C001,GOTS Organic,gold,30-01-2025
+S024,C006,Organic Standard,gold,12-09-2024
+S025,C008,LEED Certified,silver,28-02-2025
+S025,C009,Green Building,gold,15-07-2024
+S026,C003,Fair Trade,gold,15-03-2025
+S026,C010,ISO 14001,standard,22-08-2024
+S027,C005,Recycled Content,bronze,05-11-2024
+S027,C006,Organic Standard,gold,10-12-2023
+S028,C001,GOTS Organic,gold,18-05-2024
+S028,C006,Organic Standard,gold,30-01-2025
+S029,C001,GOTS Organic,gold,12-09-2024
+S029,C002,FSC Certified,silver,28-02-2025
+S030,C003,FSC Certified,silver,15-07-2024
+S030,C006,Organic Standard,gold,30-06-2024
+S031,C001,GOTS Organic,gold,30-06-2024
+S031,C003,Fair Trade,gold,15-03-2025
+S032,C002,FSC Certified,silver,22-08-2024
+S032,C005,Recycled Content,bronze,05-11-2024
+S033,C004,Energy Star,platinum,10-12-2023
+S033,C007,RoHS Compliant,standard,18-05-2024
+S034,C001,GOTS Organic,gold,30-01-2025
+S034,C006,Organic Standard,gold,12-09-2024
+S035,C008,LEED Certified,silver,28-02-2025
+S035,C009,Green Building,gold,15-07-2024
+S036,C003,Fair Trade,gold,15-03-2025
+S036,C010,ISO 14001,standard,22-08-2024
+S037,C005,Recycled Content,bronze,05-11-2024
+S037,C006,Organic Standard,gold,10-12-2023
+S038,C001,GOTS Organic,gold,18-05-2024
+S038,C006,Organic Standard,gold,30-01-2025
+S039,C001,GOTS Organic,gold,12-09-2024
+S039,C002,FSC Certified,silver,28-02-2025
+S040,C003,FSC Certified,silver,15-07-2024
+S040,C006,Organic Standard,gold,30-06-2024
+S041,C003,FSC Certified,silver,15-07-2024
+S041,C006,Organic Standard,gold,30-06-2024
+S042,C001,GOTS Organic,gold,30-06-2024
+S042,C003,Fair Trade,gold,15-03-2025
+S043,C002,FSC Certified,silver,22-08-2024
+S043,C005,Recycled Content,bronze,05-11-2024
+S044,C004,Energy Star,platinum,10-12-2023
+S044,C007,RoHS Compliant,standard,18-05-2024
+S045,C001,GOTS Organic,gold,30-01-2025
+S045,C006,Organic Standard,gold,12-09-2024
+S046,C008,LEED Certified,silver,28-02-2025
+S046,C009,Green Building,gold,15-07-2024
+S047,C003,Fair Trade,gold,15-03-2025
+S047,C010,ISO 14001,standard,22-08-2024
+S048,C005,Recycled Content,bronze,05-11-2024
+S048,C006,Organic Standard,gold,10-12-2023
+S049,C001,GOTS Organic,gold,18-05-2024
+S049,C006,Organic Standard,gold,30-01-2025
+S050,C001,GOTS Organic,gold,12-09-2024
+S050,C002,FSC Certified,silver,28-02-2025
+S051,C003,FSC Certified,silver,15-07-2024
+S051,C006,Organic Standard,gold,30-06-2024
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
